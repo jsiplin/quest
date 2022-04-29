@@ -1,0 +1,28 @@
+
+
+    <html>  
+    <head>  
+    <script language="javascript" type="text/javascript">
+    function getPassword()
+    {
+        var pwd = prompt('Please enter your password Dyllan:', '');
+        
+        if(pwd != null)
+        {
+            if(pwd != 'Green')
+            {
+				window.alert("This is not Correct Please Try again");
+                return true;
+            }
+        }
+        window.alert("You GOT IT!, Find your KEY take it with you! And head Outside. Don't forget to help your Dad!");
+		window.location="/img/dkey.jpg";
+        return false;
+    }
+    </script>
+    </head>  
+    <body>  
+    <p>Dyllan Click here to try your password.</p>  
+    <input type = "button" onclick = "getPassword()" value = "Password for Dyllan">
+    </body>  
+    </html>

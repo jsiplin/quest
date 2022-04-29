@@ -1,0 +1,374 @@
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:20:21:15 -0400] "GET / HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:20:21:15 -0400] "GET /mysource_files/style.css HTTP/1.1" 200 0
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:20:21:15 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:20:29:16 -0400] "GET / HTTP/1.1" 200 2327
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:20:29:16 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:20:29:23 -0400] "GET / HTTP/1.1" 200 2327
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:20:29:23 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:20:29:23 -0400] "GET / HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:20:29:30 -0400] "GET / HTTP/1.1" 200 2199
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:20:29:30 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:07:03 -0400] "GET / HTTP/1.1" 200 2175
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:07:03 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:07:22 -0400] "GET /direction/directions.html HTTP/1.1" 200 1755
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:07:22 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:39 -0400] "GET /direction/directions.html HTTP/1.1" 200 1748
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:39 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:43 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:44 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:44 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:44 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:44 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:44 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:44 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:45 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:45 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:45 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:45 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:22:45 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:00 -0400] "GET /direction/directions.html HTTP/1.1" 200 1752
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:02 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:02 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:02 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:02 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:02 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:03 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:03 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:03 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:03 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:41 -0400] "GET /direction/directions.html HTTP/1.1" 200 1752
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:41 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:41 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:23:45 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:24:07 -0400] "GET /direction/directions.html HTTP/1.1" 200 1733
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:24:07 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:25:37 -0400] "GET /direction/directions.html HTTP/1.1" 200 1758
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:25:37 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:25:37 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:26:35 -0400] "GET /direction/directions.html HTTP/1.1" 200 1758
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:26:35 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:26:35 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:27:06 -0400] "GET /direction/directions.html HTTP/1.1" 200 1758
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:27:06 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:27:06 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:27:15 -0400] "GET / HTTP/1.1" 200 2175
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:27:15 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:27:18 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:28:02 -0400] "GET /direction/directions.html HTTP/1.1" 200 1758
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:28:02 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:28:02 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:28:08 -0400] "GET / HTTP/1.1" 200 2172
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:28:08 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:28:12 -0400] "GET /direction/directions.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:34:50 -0400] "GET /direction/directions.html HTTP/1.1" 200 1919
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:34:51 -0400] "GET /img/aj.jpg HTTP/1.1" 200 267071
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:34:51 -0400] "GET /img/c.jpg HTTP/1.1" 200 509814
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:34:51 -0400] "GET /img/Quest2.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:36:03 -0400] "GET /direction/directions.html HTTP/1.1" 200 1885
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:36:03 -0400] "GET /img/aj.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:36:03 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:36:03 -0400] "GET /img/c.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:36:03 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:36:31 -0400] "GET /direction/directions.html HTTP/1.1" 200 1881
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:36:31 -0400] "GET /img/aj.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:36:31 -0400] "GET /img/Quest2.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:21:36:31 -0400] "GET /img/c.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:00:56 -0400] "GET /direction/directions.html HTTP/1.1" 200 1239
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:00:56 -0400] "GET /img/aj.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:00:56 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:00:56 -0400] "GET /img/c.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:00:56 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:04:01 -0400] "GET / HTTP/1.1" 200 2172
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:04:01 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:04:58 -0400] "GET / HTTP/1.1" 200 2178
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:04:58 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:05:12 -0400] "GET /direction/directions.html HTTP/1.1" 200 1297
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:05:13 -0400] "GET /img/aj.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:05:13 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:05:13 -0400] "GET /img/c.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:05:13 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:07:19 -0400] "GET /mar/m2.html HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:08:23 -0400] "GET /am2/m2.html HTTP/1.1" 200 1013
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:08:55 -0400] "GET /img/qm1.png HTTP/1.1" 200 5083
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:09:02 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:12:46 -0400] "GET /am2/m2.html HTTP/1.1" 200 920
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:12:46 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:13:46 -0400] "GET /am2/m2.html HTTP/1.1" 200 1002
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:13:46 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:14:13 -0400] "GET /am2/m2.html HTTP/1.1" 200 1002
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:14:13 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:15:25 -0400] "GET /ad2/d1.html HTTP/1.1" 200 1002
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:15:25 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:17:30 -0400] "GET /ad2/d1.html HTTP/1.1" 200 987
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:17:30 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:17:32 -0400] "GET /dyl/dcollect.html HTTP/1.1" 200 2622
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:17:32 -0400] "GET /img/ww.png HTTP/1.1" 200 52908
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:17:32 -0400] "GET /img/bb.png HTTP/1.1" 200 259956
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:17:32 -0400] "GET /img/bm.png HTTP/1.1" 200 98361
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:17:32 -0400] "GET /img/starwars.png HTTP/1.1" 200 220757
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:17:32 -0400] "GET /img/spiderman.png HTTP/1.1" 200 65498
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:19:28 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:19:28 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:19:28 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:19:28 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:19:28 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:25:45 -0400] "GET / HTTP/1.1" 200 2178
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:25:45 -0400] "GET /mysource_files/style.css HTTP/1.1" 200 0
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:25:45 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:25:45 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:26:08 -0400] "GET /mtry.html HTTP/1.1" 200 739
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:26:08 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:26:14 -0400] "GET /img/mkey.jpg HTTP/1.1" 200 50377
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:26:50 -0400] "GET /dtry.html HTTP/1.1" 200 741
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:26:57 -0400] "GET /img/dkey.jpg HTTP/1.1" 200 50635
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:27:16 -0400] "GET /direction/directions.html HTTP/1.1" 200 1323
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:27:16 -0400] "GET /img/aj.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:27:16 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:27:16 -0400] "GET /img/c.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:27:33 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:42:53 -0400] "GET / HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:45:05 -0400] "GET / HTTP/1.1" 200 2207
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:45:05 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:45:17 -0400] "GET /direction/directions.html HTTP/1.1" 200 1323
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:45:18 -0400] "GET /img/aj.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:45:18 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:45:18 -0400] "GET /img/c.jpg HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:45:18 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:45:39 -0400] "GET /dtry.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:45:53 -0400] "GET /img/dkey.jpg HTTP/1.1" 200 50635
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:45:53 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:46:09 -0400] "GET / HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:46:20 -0400] "GET /mtry.html HTTP/1.1" 200 739
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:46:20 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:46:31 -0400] "GET /img/mkey.jpg HTTP/1.1" 200 50377
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:46:31 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:48:46 -0400] "GET /ad2/ HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:48:52 -0400] "GET /ad2/d1.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:53:53 -0400] "GET /dyl/dcollect.html HTTP/1.1" 200 2622
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:53:53 -0400] "GET /img/ww.png HTTP/1.1" 200 52908
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:53:53 -0400] "GET /img/bb.png HTTP/1.1" 200 259956
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:53:53 -0400] "GET /img/bm.png HTTP/1.1" 200 98361
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:53:53 -0400] "GET /img/starwars.png HTTP/1.1" 200 220757
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:53:53 -0400] "GET /img/spiderman.png HTTP/1.1" 200 65498
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:53:54 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:56:13 -0400] "GET /dyl/dcollect.html HTTP/1.1" 200 2649
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:56:13 -0400] "GET /img/ww.png HTTP/1.1" 200 52908
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:56:13 -0400] "GET /img/bb.png HTTP/1.1" 200 259956
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:56:13 -0400] "GET /img/bm.png HTTP/1.1" 200 98361
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:56:13 -0400] "GET /img/starwars.png HTTP/1.1" 200 220757
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:56:13 -0400] "GET /img/spiderman.png HTTP/1.1" 200 65498
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:56:13 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:56:18 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:59:53 -0400] "GET /dyl/dcollect.html HTTP/1.1" 200 2782
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:59:53 -0400] "GET /img/ww.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:59:53 -0400] "GET /img/bb.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:59:53 -0400] "GET /img/bm.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:59:53 -0400] "GET /img/starwars.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:22:59:53 -0400] "GET /img/spiderman.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:00:42 -0400] "GET /dyl/dcollect.html HTTP/1.1" 200 2782
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:00:42 -0400] "GET /img/ww.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:00:42 -0400] "GET /img/bb.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:00:42 -0400] "GET /img/bm.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:00:42 -0400] "GET /img/spiderman.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:00:42 -0400] "GET /img/starwars.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:01:16 -0400] "GET /dyl/mcollect.html HTTP/1.1" 200 2507
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:01:16 -0400] "GET /img/repeat.png HTTP/1.1" 200 75631
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:01:16 -0400] "GET /img/broke.png HTTP/1.1" 200 219835
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:01:16 -0400] "GET /img/pcat.png HTTP/1.1" 200 83633
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:01:16 -0400] "GET /img/tie.png HTTP/1.1" 200 181200
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:01:16 -0400] "GET /img/duck.png HTTP/1.1" 200 65531
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:01:16 -0400] "GET /img/ap.png HTTP/1.1" 200 219561
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:01:17 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:02:36 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:02:36 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:02:36 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:34 -0400] "GET /dyl/mcollect.html HTTP/1.1" 200 2507
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:34 -0400] "GET /img/repeat.png HTTP/1.1" 200 75631
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:34 -0400] "GET /img/broke.png HTTP/1.1" 200 219835
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:34 -0400] "GET /img/pcat.png HTTP/1.1" 200 83633
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:34 -0400] "GET /img/tie.png HTTP/1.1" 200 181200
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:34 -0400] "GET /img/ap.png HTTP/1.1" 200 219561
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:34 -0400] "GET /img/duck.png HTTP/1.1" 200 65531
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:34 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /dyl/mcollect.html HTTP/1.1" 200 2507
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/repeat.png HTTP/1.1" 200 75631
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/broke.png HTTP/1.1" 200 219835
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/pcat.png HTTP/1.1" 200 83633
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/tie.png HTTP/1.1" 200 181200
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/ap.png HTTP/1.1" 200 219561
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/duck.png HTTP/1.1" 200 65531
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /dyl/mcollect.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/repeat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/broke.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/pcat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/tie.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/ap.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/duck.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /dyl/mcollect.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/repeat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/broke.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/pcat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/tie.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/ap.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/duck.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /dyl/mcollect.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/repeat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/broke.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/pcat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/tie.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/ap.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:39 -0400] "GET /img/duck.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:40 -0400] "GET /dyl/mcollect.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:40 -0400] "GET /img/repeat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:40 -0400] "GET /img/broke.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:40 -0400] "GET /img/pcat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:40 -0400] "GET /img/tie.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:40 -0400] "GET /img/duck.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:40 -0400] "GET /img/ap.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:44 -0400] "GET /mar/mcollect.html HTTP/1.1" 200 2204
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:47 -0400] "GET /mar/mcollect.html HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:47 -0400] "GET /img/repeat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:47 -0400] "GET /img/broke.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:47 -0400] "GET /img/pcat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:47 -0400] "GET /img/ap.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:03:47 -0400] "GET /img/duck.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:04:56 -0400] "GET /img/mkey.jpg HTTP/1.1" 200 50377
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:05:20 -0400] "GET /am1 HTTP/1.1" 302 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:05:20 -0400] "GET /am1/ HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:05:32 -0400] "GET /am2/m2.html HTTP/1.1" 200 996
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:05:33 -0400] "GET /mar/mcollect.html HTTP/1.1" 200 2204
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:05:33 -0400] "GET /img/repeat.png HTTP/1.1" 200 75631
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:06:50 -0400] "GET /mar/mcollect.html HTTP/1.1" 200 2240
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:06:50 -0400] "GET /img/repeat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:06:50 -0400] "GET /img/broke.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:06:50 -0400] "GET /img/pcat.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:06:50 -0400] "GET /img/ap.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [20/Apr/2022:23:06:50 -0400] "GET /img/duck.png HTTP/1.1" 304 -
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:17:20:58 -0400] "GET / HTTP/1.1" 200 2207
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:17:20:58 -0400] "GET /mysource_files/style.css HTTP/1.1" 200 0
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:17:20:58 -0400] "GET /mysource_files/favicon.ico HTTP/1.1" 403 -
+192.168.1.171 - - [21/Apr/2022:17:21:38 -0400] "GET /dyl/dyl.html HTTP/1.1" 200 783
+192.168.1.171 - - [21/Apr/2022:17:21:38 -0400] "GET /img/dkey.jpg HTTP/1.1" 200 50635
+192.168.1.171 - - [21/Apr/2022:17:22:08 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:17:22:08 -0400] " " 400 -
+Marleys-iPhone - - [21/Apr/2022:17:22:14 -0400] "GET /mindex.html HTTP/1.1" 200 3707
+Marleys-iPhone - - [21/Apr/2022:17:22:14 -0400] "GET /mysource_files/style.css HTTP/1.1" 304 -
+192.168.1.171 - - [21/Apr/2022:17:22:23 -0400] "GET / HTTP/1.1" 200 2207
+192.168.1.171 - - [21/Apr/2022:17:22:23 -0400] "GET /mysource_files/style.css HTTP/1.1" 200 0
+Marleys-iPhone - - [21/Apr/2022:17:22:38 -0400] "GET / HTTP/1.1" 200 2207
+Marleys-iPhone - - [21/Apr/2022:17:22:44 -0400] "GET /direction/directions.html HTTP/1.1" 200 1323
+Marleys-iPhone - - [21/Apr/2022:17:22:44 -0400] "GET /img/aj.jpg HTTP/1.1" 200 267071
+Marleys-iPhone - - [21/Apr/2022:17:22:44 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+Marleys-iPhone - - [21/Apr/2022:17:22:44 -0400] "GET /img/c.jpg HTTP/1.1" 200 509814
+Marleys-iPhone - - [21/Apr/2022:17:22:48 -0400] "GET /mtry.html HTTP/1.1" 200 783
+192.168.1.171 - - [21/Apr/2022:17:22:53 -0400] " " 400 -
+Marleys-iPhone - - [21/Apr/2022:17:22:57 -0400] "GET /img/mkey.jpg HTTP/1.1" 200 50377
+Marleys-iPhone - - [21/Apr/2022:17:23:14 -0400] " " 400 -
+Marleys-iPhone - - [21/Apr/2022:17:23:14 -0400] " " 400 -
+Marleys-iPhone - - [21/Apr/2022:17:23:27 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:17:23:51 -0400] "GET / HTTP/1.1" 200 2207
+192.168.1.171 - - [21/Apr/2022:17:23:51 -0400] "GET /mysource_files/style.css HTTP/1.1" 200 0
+192.168.1.171 - - [21/Apr/2022:17:24:21 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:17:28:51 -0400] "GET / HTTP/1.1" 200 2207
+192.168.1.171 - - [21/Apr/2022:17:28:51 -0400] "GET /mysource_files/style.css HTTP/1.1" 200 0
+192.168.1.171 - - [21/Apr/2022:17:29:10 -0400] "GET / HTTP/1.1" 200 2207
+192.168.1.171 - - [21/Apr/2022:17:29:10 -0400] "GET /mysource_files/style.css HTTP/1.1" 304 -
+192.168.1.171 - - [21/Apr/2022:17:29:11 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:17:29:40 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:17:30:31 -0400] "GET / HTTP/1.1" 200 2207
+192.168.1.171 - - [21/Apr/2022:17:30:56 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:17:32:41 -0400] "GET /direction/directions.html HTTP/1.1" 200 1323
+192.168.1.171 - - [21/Apr/2022:17:32:41 -0400] "GET /img/c.jpg HTTP/1.1" 200 509814
+192.168.1.171 - - [21/Apr/2022:17:32:41 -0400] "GET /img/aj.jpg HTTP/1.1" 200 267071
+192.168.1.171 - - [21/Apr/2022:17:32:41 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+192.168.1.171 - - [21/Apr/2022:17:32:48 -0400] "GET /dtry.html HTTP/1.1" 200 798
+192.168.1.171 - - [21/Apr/2022:17:33:08 -0400] "GET /img/dkey.jpg HTTP/1.1" 200 50635
+192.168.1.171 - - [21/Apr/2022:17:33:12 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:17:33:12 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:17:33:39 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:07:45 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:07:46 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:08:53 -0400] "GET /am2/m1.html HTTP/1.1" 200 1015
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:08:53 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+192.168.1.171 - - [21/Apr/2022:18:09:36 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:11:20 -0400] "GET /am2 HTTP/1.1" 302 -
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:11:20 -0400] "GET /am2/ HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:11:20 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:11:27 -0400] "GET /am2/m1.html HTTP/1.1" 200 1015
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:11:27 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+192.168.1.193 - - [21/Apr/2022:18:13:48 -0400] "GET / HTTP/1.1" 200 2207
+192.168.1.193 - - [21/Apr/2022:18:13:48 -0400] " " 400 -
+192.168.1.193 - - [21/Apr/2022:18:13:48 -0400] "GET /direction/directions.html HTTP/1.1" 200 1323
+192.168.1.193 - - [21/Apr/2022:18:13:48 -0400] "GET /img/aj.jpg HTTP/1.1" 200 267071
+192.168.1.193 - - [21/Apr/2022:18:13:48 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+192.168.1.193 - - [21/Apr/2022:18:13:48 -0400] "GET /img/c.jpg HTTP/1.1" 200 509814
+192.168.1.193 - - [21/Apr/2022:18:14:10 -0400] "GET /am2: HTTP/1.1" 403 -
+192.168.1.193 - - [21/Apr/2022:18:14:17 -0400] "GET /am2 HTTP/1.1" 302 -
+192.168.1.193 - - [21/Apr/2022:18:14:17 -0400] "GET /am2/ HTTP/1.1" 403 -
+Marleys-iPhone - - [21/Apr/2022:18:14:31 -0400] "GET /mar/mar.html HTTP/1.1" 304 -
+192.168.1.193 - - [21/Apr/2022:18:14:46 -0400] "GET /am2/ HTTP/1.1" 403 -
+Marleys-iPhone - - [21/Apr/2022:18:15:14 -0400] "GET /mindex.html HTTP/1.1" 200 3707
+Marleys-iPhone - - [21/Apr/2022:18:15:23 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:15:49 -0400] "GET / HTTP/1.1" 200 2207
+192.168.1.171 - - [21/Apr/2022:18:15:49 -0400] "GET /mysource_files/style.css HTTP/1.1" 200 0
+192.168.1.171 - - [21/Apr/2022:18:15:52 -0400] "GET /direction/directions.html HTTP/1.1" 200 1323
+192.168.1.171 - - [21/Apr/2022:18:15:52 -0400] "GET /img/aj.jpg HTTP/1.1" 200 267071
+192.168.1.171 - - [21/Apr/2022:18:15:52 -0400] "GET /img/Quest2.jpg HTTP/1.1" 200 163298
+192.168.1.171 - - [21/Apr/2022:18:15:52 -0400] "GET /img/c.jpg HTTP/1.1" 200 509814
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:15:53 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:15:54 -0400] "GET /mtry.html HTTP/1.1" 200 783
+Marleys-iPhone - - [21/Apr/2022:18:15:55 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:16:09 -0400] "GET / HTTP/1.1" 200 2207
+192.168.1.171 - - [21/Apr/2022:18:16:09 -0400] "GET /mysource_files/style.css HTTP/1.1" 200 0
+192.168.1.171 - - [21/Apr/2022:18:16:14 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:16:14 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:16:14 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:16:14 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:16:43 -0400] " " 400 -
+192.168.1.193 - - [21/Apr/2022:18:20:04 -0400] "GET /am2/m1.html HTTP/1.1" 200 1015
+192.168.1.193 - - [21/Apr/2022:18:20:15 -0400] " " 400 -
+Marleys-iPhone - - [21/Apr/2022:18:20:23 -0400] "GET /am2/m1.html HTTP/1.1" 200 1015
+Marleys-iPhone - - [21/Apr/2022:18:20:37 -0400] "GET /mar/mcollect.html HTTP/1.1" 200 2240
+Marleys-iPhone - - [21/Apr/2022:18:20:37 -0400] "GET /img/duck.png HTTP/1.1" 304 -
+Marleys-iPhone - - [21/Apr/2022:18:20:37 -0400] "GET /img/repeat.png HTTP/1.1" 304 -
+Marleys-iPhone - - [21/Apr/2022:18:20:37 -0400] "GET /img/broke.png HTTP/1.1" 304 -
+Marleys-iPhone - - [21/Apr/2022:18:20:37 -0400] "GET /img/pcat.png HTTP/1.1" 304 -
+Marleys-iPhone - - [21/Apr/2022:18:20:37 -0400] "GET /img/ap.png HTTP/1.1" 304 -
+192.168.1.171 - - [21/Apr/2022:18:20:44 -0400] "GET /am2/m1.html HTTP/1.1" 200 1015
+192.168.1.171 - - [21/Apr/2022:18:20:56 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:21:01 -0400] "GET /ad2/d1.html HTTP/1.1" 200 1009
+192.168.1.171 - - [21/Apr/2022:18:21:06 -0400] "GET /dyl/dcollect.html HTTP/1.1" 200 2782
+192.168.1.171 - - [21/Apr/2022:18:21:06 -0400] "GET /img/ww.png HTTP/1.1" 200 52908
+192.168.1.171 - - [21/Apr/2022:18:21:06 -0400] "GET /img/bb.png HTTP/1.1" 200 259956
+192.168.1.171 - - [21/Apr/2022:18:21:06 -0400] "GET /img/bm.png HTTP/1.1" 200 98361
+192.168.1.171 - - [21/Apr/2022:18:21:06 -0400] "GET /img/starwars.png HTTP/1.1" 200 220757
+192.168.1.171 - - [21/Apr/2022:18:21:06 -0400] "GET /img/spiderman.png HTTP/1.1" 200 65498
+192.168.1.171 - - [21/Apr/2022:18:21:36 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:21:36 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:21:45 -0400] "GET /ad2/d1.html HTTP/1.1" 200 1009
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:21:45 -0400] "GET /favicon.ico HTTP/1.1" 403 -
+192.168.1.171 - - [21/Apr/2022:18:22:09 -0400] "GET /ad2/d1.html HTTP/1.1" 200 1009
+192.168.1.171 - - [21/Apr/2022:18:22:24 -0400] "GET /dyl/dcollect.html HTTP/1.1" 200 2782
+192.168.1.171 - - [21/Apr/2022:18:22:24 -0400] "GET /img/ww.png HTTP/1.1" 200 52908
+192.168.1.171 - - [21/Apr/2022:18:22:24 -0400] "GET /img/bb.png HTTP/1.1" 200 259956
+192.168.1.171 - - [21/Apr/2022:18:22:24 -0400] "GET /img/bm.png HTTP/1.1" 200 98361
+192.168.1.171 - - [21/Apr/2022:18:22:24 -0400] "GET /img/starwars.png HTTP/1.1" 200 220757
+192.168.1.171 - - [21/Apr/2022:18:22:24 -0400] "GET /img/spiderman.png HTTP/1.1" 200 65498
+192.168.1.171 - - [21/Apr/2022:18:22:28 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:22:28 -0400] " " 400 -
+Marleys-iPhone - - [21/Apr/2022:18:22:42 -0400] "GET /am2/m2.html HTTP/1.1" 200 996
+Marleys-iPhone - - [21/Apr/2022:18:23:12 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:23:54 -0400] "GET /ad2/d2.html HTTP/1.1" 200 979
+192.168.1.171 - - [21/Apr/2022:18:23:59 -0400] "GET /dyl/dcollect.html HTTP/1.1" 200 2782
+192.168.1.171 - - [21/Apr/2022:18:23:59 -0400] "GET /img/ww.png HTTP/1.1" 200 52908
+192.168.1.171 - - [21/Apr/2022:18:23:59 -0400] "GET /img/bb.png HTTP/1.1" 200 259956
+192.168.1.171 - - [21/Apr/2022:18:23:59 -0400] "GET /img/bm.png HTTP/1.1" 200 98361
+192.168.1.171 - - [21/Apr/2022:18:23:59 -0400] "GET /img/starwars.png HTTP/1.1" 200 220757
+192.168.1.171 - - [21/Apr/2022:18:23:59 -0400] "GET /img/spiderman.png HTTP/1.1" 200 65498
+192.168.1.171 - - [21/Apr/2022:18:24:13 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:24:13 -0400] " " 400 -
+192.168.1.171 - - [21/Apr/2022:18:26:08 -0400] "GET /ad2/d2.html HTTP/1.1" 200 979
+192.168.1.171 - - [21/Apr/2022:18:26:20 -0400] " " 400 -
+Marleys-iPhone - - [21/Apr/2022:18:26:40 -0400] " " 400 -
+bcclaptop2.myfiosgateway.com - - [21/Apr/2022:18:29:45 -0400] " " 400 -
